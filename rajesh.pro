@@ -1,1 +1,1 @@
-app.com=ydav
+app.msging=ydav
